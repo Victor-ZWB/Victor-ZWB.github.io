@@ -1,8 +1,8 @@
 # Site settings
 title: The blog of Victor
 description: welcome to my blog
- baseurl: "" # the subpath of your site, e.g. /blog
- url: "https://victor-zwb.github.io" 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://victor-zwb.github.io" 
 
 # User settings
 username: 易水未暖
@@ -17,4 +17,4 @@ zhihu_username:  易水未暖
 #google-analytics:
 #  id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+#exclude: ['package.json', 'src' , 'node_modules']
